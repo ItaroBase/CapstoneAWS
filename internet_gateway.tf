@@ -1,7 +1,7 @@
-resource "aws_internet_gateway" "wp_internet_gateway" {
+resource "aws_internet_gateway" "wordpress_igw" {
   vpc_id = aws_vpc.wordpress_vpc.id
 
   tags = {
-    Name = "wp_internet_gateway"
+    Name = "wordpress_igw"
   }
 }
