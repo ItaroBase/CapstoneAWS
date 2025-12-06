@@ -3,7 +3,6 @@ resource "aws_security_group" "wordpress_sg" {
   description = "Allow HTTP and SSH"
   vpc_id      = aws_vpc.wordpress_vpc.id
 
-  # Inbound rules
   ingress {
     description = "Allow HTTP"
     from_port   = 80
@@ -17,10 +16,9 @@ resource "aws_security_group" "wordpress_sg" {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
-    cidr_blocks = ["YOUR.IP.ADDRESS/32"]
+    cidr_blocks = ["95.90.247.241 "]  # <-- YOUR REAL IP HERE
   }
 
-  # Outbound rules (all allowed)
   egress {
     from_port   = 0
     to_port     = 0
