@@ -1,12 +1,13 @@
 # CapstoneAWS
 
 AWS infrastructure with WordPress as a web server, Autoscaling & ALB  
+
 **Project Overview**
 
-This capstone project culminates my AWS Cloud Engineer re/Start program.  
-It is structured into three stages of increasing complexity, each expanding the infrastructure and introducing more advanced AWS services.
+This capstone project marks the final practical challenge in my AWS Cloud Engineer re/Start program.
 
----
+It progresses through three stages of growing complexity, each adding new AWS components and architectural depth.
+By Stage 2, the system evolves into a multi-AZ, scalable, and secure infrastructure for hosting WordPress.
 
 ## Project Workflow & Tooling Overview
 
