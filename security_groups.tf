@@ -16,7 +16,7 @@ resource "aws_security_group" "wordpress_sg" {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
-    cidr_blocks = ["95.90.247.241 "]  # <-- YOUR REAL IP HERE
+    cidr_blocks = ["95.90.247.241/32 "]  # <-- YOUR REAL IP HERE
   }
 
   egress {
