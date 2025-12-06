@@ -2,7 +2,7 @@
 
 AWS infrastructure with WordPress as a web server, Autoscaling & ALB  
 
-**Project Overview**
+## Prokect Overview
 
 This capstone project marks the final practical challenge in my AWS Cloud Engineer re/Start program.
 
