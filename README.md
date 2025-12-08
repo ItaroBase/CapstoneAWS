@@ -1,5 +1,3 @@
-# CapstoneAWS
-
 # CapstoneAWS – Scalable WordPress Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -8,9 +6,9 @@
 
 AWS infrastructure with WordPress as a web server, Autoscaling & ALB  
 
-## Prokect Overview
+## Prokect Overviewhttps://github.com/ItaroBase/CapstoneAWS/blob/main/README.md
 
-This capstone project marks the final practical challenge in my AWS Cloud Engineer re/Start program.
+This project serves as the final showcase of my AWS Cloud Engineer re/Start program.
 
 It progresses through three stages of growing complexity, each adding new AWS components and architectural depth.
 By Stage 2, the system evolves into a multi-AZ, scalable, and secure infrastructure for hosting WordPress.
@@ -54,8 +52,8 @@ This includes:
 
 - Creating the VPC, subnets, route tables, Internet Gateway, and Security Groups  
 - Launching an EC2 instance manually  
-- Deploying a static webpage using User Data  
-- Installing the LAMP stack and WordPress manually on EC2  
+- Deploying a static webpage using User Data script
+- Installing and configuring LAMP stack and WordPress manually on EC2  
 - Developing the final User Data script that automates the WordPress installation  
 
 Once the manual environment works end-to-end, Terraform is used to rebuild everything fully automatically.
