@@ -1,5 +1,11 @@
 # CapstoneAWS
 
+# CapstoneAWS – Scalable WordPress Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 AWS infrastructure with WordPress as a web server, Autoscaling & ALB  
 
 ## Prokect Overview
