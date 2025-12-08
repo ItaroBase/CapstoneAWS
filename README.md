@@ -6,7 +6,7 @@
 
 AWS infrastructure with WordPress as a web server, Autoscaling & ALB  
 
-## Prokect Overviewhttps://github.com/ItaroBase/CapstoneAWS/blob/main/README.md
+## Prokect Overview
 
 This project serves as the final showcase of my AWS Cloud Engineer re/Start program.
 
