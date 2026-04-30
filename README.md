@@ -6,7 +6,7 @@
 
 AWS infrastructure with WordPress as a web server, Autoscaling & ALB  
 
-## Prokect Overview
+## Project Overview
 
 This project serves as the final showcase of my AWS Cloud Engineer re/Start program.
 
